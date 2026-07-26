@@ -1,7 +1,9 @@
 node_modules/
 .pnpm-store/
 .next/
+dist/
 .open-next/
+next-env.d.ts
 *.log
 site-build.tar.gz
 licensed_portraits_100/
