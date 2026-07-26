@@ -1,0 +1,8 @@
+node_modules/
+.pnpm-store/
+.next/
+.open-next/
+*.log
+site-build.tar.gz
+licensed_portraits_100/
+collect_licensed_portraits.py

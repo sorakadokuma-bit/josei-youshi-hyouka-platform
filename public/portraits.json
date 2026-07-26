@@ -1,0 +1,802 @@
+﻿[
+    {
+        "id":  "CN_01",
+        "country":  "CN",
+        "src":  "/portraits/CN_01.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Jialin_Tang_1.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "CN_02",
+        "country":  "CN",
+        "src":  "/portraits/CN_02.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Li_Li.png",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "CN_03",
+        "country":  "CN",
+        "src":  "/portraits/CN_03.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Yoyo_Kot_%E8%91%9B%E7%B6%BD%E7%91%A4_2022-01-17.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "CN_04",
+        "country":  "CN",
+        "src":  "/portraits/CN_04.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Kwong_Siu_Hing_%26_Thomas_Kwok.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "CN_05",
+        "country":  "CN",
+        "src":  "/portraits/CN_05.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Xia_Huan_(cropped).jpg",
+        "license":  "CC BY-SA 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+        "id":  "CN_06",
+        "country":  "CN",
+        "src":  "/portraits/CN_06.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:2024_Summer_Paralympics_women%27s_wheelchair_fencing,_China_v_Ukraine_-_%C3%A9p%C3%A9e_(180)_(Gu_Haiyan).jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "CN_07",
+        "country":  "CN",
+        "src":  "/portraits/CN_07.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Yang_Qian_sport_shooter.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "CN_08",
+        "country":  "CN",
+        "src":  "/portraits/CN_08.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Hu_Meifang.JPG",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "CN_09",
+        "country":  "CN",
+        "src":  "/portraits/CN_09.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%E9%9B%99%E6%A7%8D%E9%BB%83%E5%85%AB%E5%A6%B9.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "CN_10",
+        "country":  "CN",
+        "src":  "/portraits/CN_10.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%E5%8A%89%E6%88%91%E8%8B%B1.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "CN_11",
+        "country":  "CN",
+        "src":  "/portraits/CN_11.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Zhang_Portrait.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "CN_12",
+        "country":  "CN",
+        "src":  "/portraits/CN_12.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Sica_Ho.jpg",
+        "license":  "CC0",
+        "licenseUrl":  "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+        "id":  "CN_13",
+        "country":  "CN",
+        "src":  "/portraits/CN_13.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Zhang_Qiongyue_(8565513)_(cropped).jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "CN_14",
+        "country":  "CN",
+        "src":  "/portraits/CN_14.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Xiaoting_220703.jpg",
+        "license":  "CC BY 1.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/1.0"
+    },
+    {
+        "id":  "CN_15",
+        "country":  "CN",
+        "src":  "/portraits/CN_15.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Li_Qiaochu_delivering_remarks_on_occasion_of_her_acceptance_of_the_2020_PEN_Freedom_to_Write_Award_on_behalf_of_Awardee_Xu_Zhiyong,_December_2020.png",
+        "license":  "CC BY-SA 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+        "id":  "CN_16",
+        "country":  "CN",
+        "src":  "/portraits/CN_16.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Lynn_Wang_Yiran_20240531.jpg",
+        "license":  "CC0",
+        "licenseUrl":  "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+        "id":  "CN_17",
+        "country":  "CN",
+        "src":  "/portraits/CN_17.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%E9%BE%9A%E7%90%B3%E5%A8%9C_(2026).png",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "CN_18",
+        "country":  "CN",
+        "src":  "/portraits/CN_18.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Huang_Chih-hsien.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "CN_19",
+        "country":  "CN",
+        "src":  "/portraits/CN_19.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Chen_Haoyu_at_2026_Shanghai_International_Film_Festival_01.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "CN_20",
+        "country":  "CN",
+        "src":  "/portraits/CN_20.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Pennyliushuying_06.jpg",
+        "license":  "CC BY-SA 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+        "id":  "CN_21",
+        "country":  "CN",
+        "src":  "/portraits/CN_21.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%E8%83%A1%E8%AF%91%E4%B9%98.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "CN_22",
+        "country":  "CN",
+        "src":  "/portraits/CN_22.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Shang_Chunsong_2014.jpg",
+        "license":  "CC BY-SA 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+        "id":  "CN_23",
+        "country":  "CN",
+        "src":  "/portraits/CN_23.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Celina_Jade_(Wolf_Warrior_2,_cropped).jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "CN_24",
+        "country":  "CN",
+        "src":  "/portraits/CN_24.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Huanhuan.JPG",
+        "license":  "CC BY-SA 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+        "id":  "CN_25",
+        "country":  "CN",
+        "src":  "/portraits/CN_25.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Ayaka_Matsumoto_Japan_Volleyball_team.jpg",
+        "license":  "CC BY-SA 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+        "id":  "CN_26",
+        "country":  "CN",
+        "src":  "/portraits/CN_26.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Cao_Shumin,_2022.jpg",
+        "license":  "CC BY 2.5",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/2.5"
+    },
+    {
+        "id":  "CN_27",
+        "country":  "CN",
+        "src":  "/portraits/CN_27.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Chu_Anping_and_Duanmu_Luxi.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "CN_28",
+        "country":  "CN",
+        "src":  "/portraits/CN_28.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Volpi,_Di_Francisca,_Zagidullina,_Shi_-_2020_Kazan_Women%27s_Foil_World_Cup_(cropped)_-_Shi_Yue.jpg",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "CN_29",
+        "country":  "CN",
+        "src":  "/portraits/CN_29.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Tang_Muhan_-_2021.png",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "CN_30",
+        "country":  "CN",
+        "src":  "/portraits/CN_30.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Erica_Xia-_Hou_(27985525084)_(cropped).jpg",
+        "license":  "CC BY-SA 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+        "id":  "CN_31",
+        "country":  "CN",
+        "src":  "/portraits/CN_31.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Liou_Sia_(2024).jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "CN_32",
+        "country":  "CN",
+        "src":  "/portraits/CN_32.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Arise_Moment_Live_In_Foshan.jpg",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "CN_33",
+        "country":  "CN",
+        "src":  "/portraits/CN_33.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Wang_Haoze_at_Shenzhou-19_press_conference.png",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "CN_34",
+        "country":  "CN",
+        "src":  "/portraits/CN_34.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:YangLingfu1936.png",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "JP_01",
+        "country":  "JP",
+        "src":  "/portraits/JP_01.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%E6%B8%8B%E8%B0%B7%E8%9F%B9%E6%B2%A2%E8%90%8C%E5%AD%90%E3%81%95%E3%82%93.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_02",
+        "country":  "JP",
+        "src":  "/portraits/JP_02.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Ayanatsume2025.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_03",
+        "country":  "JP",
+        "src":  "/portraits/JP_03.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%E6%9F%B3%E5%B7%9D%E3%81%BF%E3%81%82%EF%BC%88%E7%AB%9C%E7%8E%8B%E6%92%AE%E5%BD%B1%E4%BC%9A%EF%BC%89.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_04",
+        "country":  "JP",
+        "src":  "/portraits/JP_04.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Taeko_Kinjo.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "JP_05",
+        "country":  "JP",
+        "src":  "/portraits/JP_05.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Mei_Ohtani_2024.jpg",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "JP_06",
+        "country":  "JP",
+        "src":  "/portraits/JP_06.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Hagiko_Umezu_(Trade_unionists)_1933.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "JP_07",
+        "country":  "JP",
+        "src":  "/portraits/JP_07.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Kazumi_Urano_(cropped).jpg",
+        "license":  "CC BY-SA 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+        "id":  "JP_08",
+        "country":  "JP",
+        "src":  "/portraits/JP_08.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Minori_Naito_-_batter.jpg",
+        "license":  "CC0",
+        "licenseUrl":  "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+        "id":  "JP_09",
+        "country":  "JP",
+        "src":  "/portraits/JP_09.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Kindai_Mahjong_Swimsuit_Festival_20220910_IMG_2035.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_10",
+        "country":  "JP",
+        "src":  "/portraits/JP_10.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Aoi_Yamada_from_%22Perfect_Days%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_(53348561400).jpg",
+        "license":  "CC BY 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+        "id":  "JP_11",
+        "country":  "JP",
+        "src":  "/portraits/JP_11.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Miu_Goto.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_12",
+        "country":  "JP",
+        "src":  "/portraits/JP_12.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Fresh_Festival_2023_in_Shirakobato_Water_Park_IMG_1295.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_13",
+        "country":  "JP",
+        "src":  "/portraits/JP_13.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Kindai_Mahjong_Kimono_Festival_IMG_4255.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_14",
+        "country":  "JP",
+        "src":  "/portraits/JP_14.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Haruka_Agatsuma.jpg",
+        "license":  "CC0",
+        "licenseUrl":  "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+        "id":  "JP_15",
+        "country":  "JP",
+        "src":  "/portraits/JP_15.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Atsuko_Enomoto.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_16",
+        "country":  "JP",
+        "src":  "/portraits/JP_16.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%E9%BB%92%E8%A6%8B%E6%98%8E%E9%A6%99_%E9%A6%99%E6%B8%AF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF_(cropped).jpg",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "JP_17",
+        "country":  "JP",
+        "src":  "/portraits/JP_17.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Yoshimi_Yokoyama-_photo_Petr_Horcicka.png",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_18",
+        "country":  "JP",
+        "src":  "/portraits/JP_18.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Tsugumi_Sakurai_2.JPG",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_19",
+        "country":  "JP",
+        "src":  "/portraits/JP_19.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Kazusa_Ogawa_%C3%89preuve_Para_Judo_Jeux_Paralympiques_2024_Arena_Champ_Mars_-_Paris_VII_(FR75)_-_2024-09-06_-_1.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_20",
+        "country":  "JP",
+        "src":  "/portraits/JP_20.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Yuka_Ichiguchi.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_21",
+        "country":  "JP",
+        "src":  "/portraits/JP_21.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Momo_Aoki_IMG_5965.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_22",
+        "country":  "JP",
+        "src":  "/portraits/JP_22.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Misako_Matsukata_oil_painting.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "JP_23",
+        "country":  "JP",
+        "src":  "/portraits/JP_23.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:HIH_Princess_Asaka_Kiyoko.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "JP_24",
+        "country":  "JP",
+        "src":  "/portraits/JP_24.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%E4%B8%8B%E7%94%B0%E9%BA%BB%E7%BE%8E_%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%80%8EDREAM%E3%80%8F%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5_(5339078490).jpg",
+        "license":  "CC BY 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+        "id":  "JP_25",
+        "country":  "JP",
+        "src":  "/portraits/JP_25.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Tomoko_Yamagata_1_(cropped).jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "JP_26",
+        "country":  "JP",
+        "src":  "/portraits/JP_26.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Etsuko-Niki-1.png",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "JP_27",
+        "country":  "JP",
+        "src":  "/portraits/JP_27.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:S_haruhimoeka173.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_28",
+        "country":  "JP",
+        "src":  "/portraits/JP_28.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Yazawa_erika_dvd_release_event_2011.jpg",
+        "license":  "CC BY-SA 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+        "id":  "JP_29",
+        "country":  "JP",
+        "src":  "/portraits/JP_29.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Konishi_Manami_from_%22MIDNIGHT_BUS%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2017_(39305014375).jpg",
+        "license":  "CC BY 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+        "id":  "JP_30",
+        "country":  "JP",
+        "src":  "/portraits/JP_30.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Fresh_Summer_Fes!!_Gold_Division_IMG_9285.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "JP_31",
+        "country":  "JP",
+        "src":  "/portraits/JP_31.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Nana_Iwasaka_Japan_Volleyball_team_(cropped).jpg",
+        "license":  "CC BY-SA 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+        "id":  "JP_32",
+        "country":  "JP",
+        "src":  "/portraits/JP_32.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Ishikawa_Sayuri_from_%22Perfect_Days%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_(53348561180)_(cropped).jpg",
+        "license":  "CC BY 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+        "id":  "JP_33",
+        "country":  "JP",
+        "src":  "/portraits/JP_33.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Mineshima_Komaki.png",
+        "license":  "CC0",
+        "licenseUrl":  "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+        "id":  "KR_01",
+        "country":  "KR",
+        "src":  "/portraits/KR_01.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Leeseo_of_Ive,_March_19,_2026_(3).png",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "KR_02",
+        "country":  "KR",
+        "src":  "/portraits/KR_02.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:ARG_vs_KOR_Women%27s_Volleyball_2024_friendly_match_at_GELP_(382)_(cropped).jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "KR_03",
+        "country":  "KR",
+        "src":  "/portraits/KR_03.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Kim_Eun-hee_2019.png",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_04",
+        "country":  "KR",
+        "src":  "/portraits/KR_04.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:211115_%EB%85%B8%EC%A0%9C_01.png",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_05",
+        "country":  "KR",
+        "src":  "/portraits/KR_05.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:FIFTY_FIFTY_Keena_at_2024_Billboard_K_Power_100.png",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_06",
+        "country":  "KR",
+        "src":  "/portraits/KR_06.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:ISA_(STAYC)_220430.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_07",
+        "country":  "KR",
+        "src":  "/portraits/KR_07.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%EA%B9%80%EC%98%A5%EC%84%A0_%EC%9D%98%EC%9B%90.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "KR_08",
+        "country":  "KR",
+        "src":  "/portraits/KR_08.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Woo_Ji-Hae.jpg",
+        "license":  "CC BY 2.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+        "id":  "KR_09",
+        "country":  "KR",
+        "src":  "/portraits/KR_09.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%EC%B9%98%EA%B3%BC%EC%9D%98%EC%82%AC_%EC%9D%B4%EC%88%98%EC%A7%84.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_10",
+        "country":  "KR",
+        "src":  "/portraits/KR_10.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Since_20211104.png",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_11",
+        "country":  "KR",
+        "src":  "/portraits/KR_11.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Yun_Sang_Jeong.png",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "KR_12",
+        "country":  "KR",
+        "src":  "/portraits/KR_12.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%EA%B0%95%EC%8B%A0%EC%9E%AC_%EC%9E%91%EA%B0%80.jpg",
+        "license":  "Public domain",
+        "licenseUrl":  ""
+    },
+    {
+        "id":  "KR_13",
+        "country":  "KR",
+        "src":  "/portraits/KR_13.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%EA%B9%80%EC%97%B0%EC%A7%80_%EA%B0%80%EC%88%98.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_14",
+        "country":  "KR",
+        "src":  "/portraits/KR_14.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:2019_%EC%9D%B4%EC%84%B1%ED%99%94_%EB%AA%A8%EB%8D%B8.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_15",
+        "country":  "KR",
+        "src":  "/portraits/KR_15.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:20201126%E2%80%94Moon_Hye-in_%EB%AC%B8%ED%98%9C%EC%9D%B8,_Marie_Claire_Korea_screenshot_(01m50s).jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_16",
+        "country":  "KR",
+        "src":  "/portraits/KR_16.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Han_Ji-hyun_at_2025_Toronto_International_Film_Festival_(cropped).jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "KR_17",
+        "country":  "KR",
+        "src":  "/portraits/KR_17.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Jini_at_the_Seoul_Fashion_Week_2024_02.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_18",
+        "country":  "KR",
+        "src":  "/portraits/KR_18.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Lim_Si-hyeon,_2025.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "KR_19",
+        "country":  "KR",
+        "src":  "/portraits/KR_19.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:ARG_vs_KOR_Women%27s_Volleyball_2024_friendly_match_at_GELP_(246)_(cropped).jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "KR_20",
+        "country":  "KR",
+        "src":  "/portraits/KR_20.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Audrey_Nuna_at_the_2026_Met_Gala_(cropped).jpg",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "KR_21",
+        "country":  "KR",
+        "src":  "/portraits/KR_21.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Danielle_Marsh_at_a_YSL_Beauty_event_2024_D.png",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "KR_22",
+        "country":  "KR",
+        "src":  "/portraits/KR_22.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Nam_Gwon-a_in_March_2026.png",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "KR_23",
+        "country":  "KR",
+        "src":  "/portraits/KR_23.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:20211118_-_%EB%B0%95%EC%98%81%EC%84%A0.jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "KR_24",
+        "country":  "KR",
+        "src":  "/portraits/KR_24.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Leehiho2010.jpg",
+        "license":  "CC BY-SA 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+        "id":  "KR_25",
+        "country":  "KR",
+        "src":  "/portraits/KR_25.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Belle_kiof.png",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_26",
+        "country":  "KR",
+        "src":  "/portraits/KR_26.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Bailey_Sok_250708.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_27",
+        "country":  "KR",
+        "src":  "/portraits/KR_27.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Rio_2016,_Women%27s_Volleyball,_South_Korea_x_Netherlands_(10).jpg",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+        "id":  "KR_28",
+        "country":  "KR",
+        "src":  "/portraits/KR_28.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Sullyoon_(%EC%84%A4%EC%9C%A4)_2024_06.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_29",
+        "country":  "KR",
+        "src":  "/portraits/KR_29.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Kim_Ha-Yun_2024.jpg",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+        "id":  "KR_30",
+        "country":  "KR",
+        "src":  "/portraits/KR_30.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:TripleS_S8_%E8%A3%95%E5%BD%AC.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_31",
+        "country":  "KR",
+        "src":  "/portraits/KR_31.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:%EB%8C%80%EA%B5%AC%ED%8A%9C%EB%8B%9D%EC%B9%B4_%EC%9D%B4%EB%8B%A4%EC%97%B0_2019.jpg",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_32",
+        "country":  "KR",
+        "src":  "/portraits/KR_32.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:TDYA_press_conference_(Friendship-ing).png",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+        "id":  "KR_33",
+        "country":  "KR",
+        "src":  "/portraits/KR_33.jpg",
+        "source":  "https://commons.wikimedia.org/wiki/File:Haneul_on_20240227_(cropped).png",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0"
+    }
+]
