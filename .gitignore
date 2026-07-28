@@ -1,10 +1,15 @@
 node_modules/
-.pnpm-store/
 .next/
+.vinext/
+.pnpm-store/
 dist/
 .open-next/
 next-env.d.ts
 *.log
+*.pid
+__pycache__/
 site-build.tar.gz
 licensed_portraits_100/
 collect_licensed_portraits.py
+Image_ckj/
+女声优姓名.txt

@@ -4,8 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vinext dev",
-    "build": "vinext build && node scripts/prepare-sites-dist.cjs",
+    "gallery:sync": "node scripts/sync-portraits.cjs",
+    "dev": "node scripts/dev-with-gallery.cjs",
+    "build": "node scripts/sync-portraits.cjs && vinext build && node scripts/prepare-sites-dist.cjs",
     "start": "vinext start",
     "lint": "vinext lint"
   },

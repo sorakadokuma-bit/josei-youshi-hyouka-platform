@@ -3,7 +3,11 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 
 const STORAGE_KEY = "portrait-rating-lab:v1";
-const COUNTRY_NAMES = { CN: "中国", JP: "日本", KR: "韩国" };
+const COUNTRY_NAMES = {
+  CN: "中国",
+  JP: "日本",
+  KR: "韩国"
+};
 
 function average(values) {
   if (!values.length) return 0;
@@ -265,16 +269,48 @@ export default function Home() {
   const [animating, setAnimating] = useState(false);
 
   useEffect(() => {
-    Promise.all([
-      fetch("/portraits.json").then((response) => response.json()),
-      Promise.resolve(loadSavedState())
-    ]).then(([items, saved]) => {
-      setPortraits(seededShuffle(items));
-      setRatings(saved.ratings);
-      setHistory(saved.history);
-      setIsReady(true);
-    });
+    let active = true;
+    fetch(`/portraits.json?initial=${Date.now()}`, { cache: "no-store" })
+      .then((response) => response.json())
+      .then((items) => {
+        if (!active) return;
+        const saved = loadSavedState();
+        setPortraits(seededShuffle(items));
+        setRatings(saved.ratings);
+        setHistory(saved.history);
+        setIsReady(true);
+      });
+    return () => {
+      active = false;
+    };
   }, []);
+
+  useEffect(() => {
+    if (!isReady) return undefined;
+    let active = true;
+    const refreshLibrary = () => {
+      fetch(`/portraits.json?refresh=${Date.now()}`, { cache: "no-store" })
+        .then((response) => response.json())
+        .then((items) => {
+          if (!active) return;
+          setPortraits((existing) => {
+            const incomingById = new Map(items.map((item) => [item.id, item]));
+            const kept = existing
+              .filter((item) => incomingById.has(item.id))
+              .map((item) => incomingById.get(item.id));
+            const existingIds = new Set(kept.map((item) => item.id));
+            const additions = items.filter((item) => !existingIds.has(item.id));
+            return additions.length ? [...kept, ...seededShuffle(additions)] : kept;
+          });
+        })
+        .catch(() => {});
+    };
+    const interval = window.setInterval(refreshLibrary, 5000);
+    return () => {
+      active = false;
+      window.clearInterval(interval);
+    };
+  }, [isReady]);
 
   useEffect(() => {
     if (!isReady) return;
@@ -285,7 +321,7 @@ export default function Home() {
     () => portraits.find((portrait) => !ratings[portrait.id]) || null,
     [portraits, ratings]
   );
-  const ratedCount = Object.keys(ratings).length;
+  const ratedCount = portraits.filter((portrait) => ratings[portrait.id]).length;
   const lastRated = history.length ? history[history.length - 1] : null;
 
   useEffect(() => {
@@ -438,7 +474,7 @@ export default function Home() {
           <section className="complete-card">
             <span className="complete-mark">✓</span>
             <p className="eyebrow">ALL DONE</p>
-            <h1>100 张，全部完成</h1>
+            <h1>{portraits.length} 张，全部完成</h1>
             <p>你的个人偏好画像已经生成，可以前往统计页查看结果。</p>
             <div>
               <button className="primary-button" type="button" onClick={() => setView("stats")}>
