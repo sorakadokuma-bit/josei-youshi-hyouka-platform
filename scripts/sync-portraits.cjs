@@ -40,8 +40,31 @@ function inferCountry(fileName) {
   return match ? match[1].toUpperCase() : null;
 }
 
+function pruneStaleImportedImages() {
+  const sourceHashes = new Map(
+    sourceFolders.map((source) => [
+      source.country,
+      new Set(imageFiles(source.directory).map(sha256))
+    ])
+  );
+  let removed = 0;
+  for (const filePath of imageFiles(publicDirectory)) {
+    const fileName = path.basename(filePath);
+    const match = fileName.match(/^CKJ_(CN|JP|KR)_[0-9a-f]{16}\./i);
+    if (!match) continue;
+    const country = match[1].toUpperCase();
+    const currentHashes = sourceHashes.get(country);
+    if (currentHashes && !currentHashes.has(sha256(filePath))) {
+      fs.unlinkSync(filePath);
+      removed += 1;
+    }
+  }
+  return removed;
+}
+
 function syncImportedImages() {
   fs.mkdirSync(publicDirectory, { recursive: true });
+  const removed = pruneStaleImportedImages();
   const publicHashes = new Map();
   for (const filePath of imageFiles(publicDirectory)) {
     publicHashes.set(sha256(filePath), path.basename(filePath));
@@ -66,7 +89,7 @@ function syncImportedImages() {
       publicHashes.set(digest, outputName);
     }
   }
-  return { copied, duplicate };
+  return { copied, duplicate, removed };
 }
 
 function buildManifest() {
@@ -125,5 +148,6 @@ const counts = manifest.reduce(
 console.log(
   `Gallery synced: ${manifest.length} images ` +
     `(CN ${counts.CN || 0}, JP ${counts.JP || 0}, KR ${counts.KR || 0}); ` +
-    `${syncResult.copied} new, ${syncResult.duplicate} duplicate source files skipped.`
+    `${syncResult.copied} new, ${syncResult.duplicate} duplicate source files skipped, ` +
+    `${syncResult.removed} stale imported files removed.`
 );
